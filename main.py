@@ -58,6 +58,7 @@ plt.ylabel("Value [$]")
 plt.plot(x_new, y_predict, "r", label="Prediction")
 plt.plot(x, y, "g.", label="Real values")
 plt.legend(loc="upper left")
+plt.savefig("TESLA Predictions.png")
 plt.show()
 
 # Calculate mean squared error value
