@@ -8,4 +8,4 @@ We are using regression to predict a continuous target variable.
 
 Problems like price predictions are solved using regression.
 
-![alt text]("TESLA Predictions.png")
+![Prediction Graph]("https://github.com/ndrivdal/DAVE3625-oblig2/blob/main/TESLA Predictions.png?raw=true")
